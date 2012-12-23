@@ -1,0 +1,5 @@
+Happy New Year (Jan 1, 2012, written in C)
+==========================================
+
+Displays a colorful, animated "Happy New Year!" greeting in the terminal.
+

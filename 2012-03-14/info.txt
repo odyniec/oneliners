@@ -1,0 +1,7 @@
+Pi Day (Mar 14, 2012, written in Perl)
+======================================
+
+Displays a "Happy 3.14159... Day!" message with Pi expanded to many digits.
+
+(Requires Perl 5.14.)
+

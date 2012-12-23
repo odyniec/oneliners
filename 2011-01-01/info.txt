@@ -1,0 +1,8 @@
+Happy New Year (Jan 1, 2011, written in JavaScript)
+===================================================
+
+Displays an alert window with a "Happy New Year!" greeting.
+
+(And I really hope I haven't accidentally offended any Asian people with those
+UTF-8 characters in the source code.)
+
