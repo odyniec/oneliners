@@ -1,0 +1,9 @@
+Perl's 25th Birthday (Dec 18, 2012, written in Perl)
+====================================================
+
+Celebrates the 25th birthday of Perl by drawing a picture with a birthday
+greeting on the terminal screen.
+
+Included as a shell script, because this way it can be easily run with the 
+required "-C" command line option.
+
