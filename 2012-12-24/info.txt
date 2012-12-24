@@ -9,6 +9,6 @@ produces some ugly warnings during compilation.
 
 A shorter variant, with just one type of snowflake, instead of three:
 
-    main(i){char*p,s[]="Hbqqz!Ipmjebzt\"\1\u2744";p=s;while(--*p++);
+    main(i){char*p,s[]="Ibqqz!Ipmjebzt\"\1\u2744";p=s;while(--*p++);
     while(i++<1827)printf(i-914?rand()/9>rand()?p:" ":s);}
 
