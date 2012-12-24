@@ -1,0 +1,14 @@
+Happy Holidays (Dec 24, 2012, written in C)
+===========================================
+
+Paints the terminal screen with Unicode snowflakes and a puts a "Happy
+Holidays!" message in the center.
+
+This one is slightly lame, as it only looks good on a 80x24 terminal, and
+produces some ugly warnings during compilation.
+
+A shorter variant, with just one type of snowflake, instead of three:
+
+    main(i){char*p,s[]="Hbqqz!Ipmjebzt\"\1\u2744";p=s;while(--*p++);
+    while(i++<1827)printf(i-914?rand()/9>rand()?p:" ":s);}
+
