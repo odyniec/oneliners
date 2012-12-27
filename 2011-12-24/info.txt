@@ -1,0 +1,10 @@
+Merry Christmas (Dec 24, 2011, written in Perl)
+===============================================
+
+Displays a "Merry Christmas" greeting.
+
+Actually, what it does is it extracts a particular fragment from a code sample
+in the "perlsyn" Perl documentation section, which happens to say "Merry
+Christmas". Of course, this isn't going to work if the documentation changes in
+the future.
+
