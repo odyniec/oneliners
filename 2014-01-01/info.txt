@@ -1,0 +1,12 @@
+Happy New Year (Jan 1, 2014, written in C/Bash/Perl)
+====================================================
+
+Prints out "Happy New Year!".
+
+It's a rather simple polyglot, a program that can be compiled or interpreted by
+multiple languages and produce the same effect.
+
+(And it's not really an oneliner.)
+
+For a more interesting example of a polyglot program, see
+http://www.gnu.org/fun/jokes/happy-new-year.html.
