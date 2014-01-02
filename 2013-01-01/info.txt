@@ -1,0 +1,8 @@
+Happy New Year (Jan 1, 2013, written in Python)
+===============================================
+
+Prints out "Happy New Year!".
+
+It's rather unimpressive, as it just decodes a reversed and ROT-13 encoded
+string. This will have to do for my first Python oneliner.
+
