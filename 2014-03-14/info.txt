@@ -1,0 +1,4 @@
+Pi Day (Mar 14, 2014, written in Perl)
+======================================
+
+Displays a circle made of the Pi character (UTF-8) with a "Happy Pi Day!" message in the middle.
