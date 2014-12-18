@@ -1,0 +1,8 @@
+Perl's 27th Birthday (Dec 18, 2014, written in Perl)
+====================================================
+
+Prints out the lyrics of the "Happy Birthday" song for Perl's birthday.
+
+(Included as a shell script.)
+
+
